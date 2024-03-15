@@ -30,9 +30,6 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
           <BasicSection imageUrl="/demo-illustration-1.svg" title="Why do our clients choose us ?" overTitle="sit amet gogo">
             <p>
             Bullstockindia has streamlined the solutions to solve some of the core issues in the ﬁeld of investment. Be it a beginner or an expert, every type of our client likes the way we approach the concepts of investment and wealth management.{' '}
-              <Link href="/help-center">Possimus ullam velit rem itaque consectetur, in distinctio?</Link> Lorem ipsum, dolor sit amet
-              consectetur adipisicing elit. Soluta repellendus quia quos obcaecati nihil. Laudantium non accusantium, voluptate eum nesciunt
-              at suscipit quis est soluta?
             </p>
           </BasicSection>
           <BasicSection imageUrl="/demo-illustration-2.svg" title="Lorem ipsum dolor sit." overTitle="lorem ipsum" reversed>
