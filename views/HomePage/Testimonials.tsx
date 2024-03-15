@@ -11,28 +11,28 @@ import { media } from 'utils/media';
 const TESTIMONIALS = [
   {
     companyLogoUrl: '/testimonials/company-logo-1.svg',
-    content: `Really good. I am so pleased with this product. I didn't even need training.`,
+    content: `All the best to Bullstockindia for their digital expansion, I've been using their services for the past 3 years.The best part is the amount of carefree I feel due to their personal interests in my profits!`,
     author: {
-      name: 'Clyde Edwards',
-      title: 'Very Serious Man',
+      name: 'Dhanush Gowda',
+      title: 'Banker / Bengaluru',
       avatarUrl: '/testimonials/author-photo-1.jpeg',
     },
   },
   {
     companyLogoUrl: '/testimonials/company-logo-2.svg',
-    content: `It's really wonderful. I use saas product often. Thank You! Saas product has really helped our business.`,
+    content: `Bullstockindia and Ankit, all the very best to your team. You have a been an advisor and even a mentor to me about mu investments`,
     author: {
-      name: 'Jimmy Hunter',
-      title: 'Sigma Male University Graduate',
+      name: 'Rashid khan',
+      title: 'Businessman / Delhi',
       avatarUrl: '/testimonials/author-photo-2.jpeg',
     },
   },
   {
     companyLogoUrl: '/testimonials/company-logo-3.svg',
-    content: `Since I invested in saas product I made over 100,000 dollars profits. It really saves me time and effort. saas product is exactly what our business has been lacking.`,
+    content: `SAs a housewife I always wanted to contribute in my home's income. Finally I got in touch with Bullstockindia and earning around INR 50-60,000 monthly for my family. I recommend them especially if you are a beginner`,
     author: {
-      name: 'Marjorie Morgan',
-      title: 'Chief Chad Officer',
+      name: 'Radha Jain',
+      title: 'Housewife / Bengaluru',
       avatarUrl: '/testimonials/author-photo-3.jpeg',
     },
   },
