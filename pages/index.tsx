@@ -34,8 +34,7 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
           </BasicSection>
           <BasicSection imageUrl="/demo-illustration-2.svg" title="And Partnering with Us Brings" overTitle="Welcome to Our World" reversed>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore{' '}
-              <strong>voluptate quo deleniti animi laboriosam</strong>. Possimus ullam velit rem itaque consectetur, in distinctio?
+              Besides the expertise in our own ﬁeld we have strived for and achieved numbers that put us very differently in the market against our competitors.{' '}
             </p>
             <ul>
               <li>Professional point 1</li>
