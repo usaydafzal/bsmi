@@ -14,7 +14,7 @@ export default function Hero() {
   return (
     <HeroWrapper>
       <Contents>
-        <CustomOverTitle>Research and information on Indian capital markets & commodities based on technical analysis</CustomOverTitle>
+        <CustomOverTitle>Information on Indian capital markets & commodities based on technical analysis</CustomOverTitle>
         <Heading>BullstockIndia is an end to end solution to all the ﬁnancial research services.</Heading>
         <Description>
         ‘Something for someone and everyone shall witness an enhancement in their wealth’ is the motto of the company and our team.
