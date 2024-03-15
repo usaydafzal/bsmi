@@ -27,7 +27,7 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
         <WhiteBackgroundContainer>
           <Hero />
           <Partners />
-          <BasicSection imageUrl="/demo-illustration-1.svg" title="Why do our clients choose us ?" overTitle="sit amet gogo">
+          <BasicSection imageUrl="/demo-illustration-1.svg" title="Why do our clients choose us ?" overTitle="You might ask">
             <p>
             Bullstockindia has streamlined the solutions to solve some of the core issues in the ﬁeld of investment. Be it a beginner or an expert, every type of our client likes the way we approach the concepts of investment and wealth management.{' '}
             </p>
