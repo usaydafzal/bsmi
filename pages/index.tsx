@@ -37,9 +37,9 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
               Besides the expertise in our own ﬁeld we have strived for and achieved numbers that put us very differently in the market against our competitors.{' '}
             </p>
             <ul>
-              <li>Professional point 1</li>
-              <li>Professional remark 2</li>
-              <li>Professional feature 3</li>
+              <li>Loss Recovery</li>
+              <li>Accuracy</li>
+              <li>Satisfaction</li>
             </ul>
           </BasicSection>
         </WhiteBackgroundContainer>
