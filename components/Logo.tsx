@@ -43,7 +43,7 @@ export default function Logo({ ...rest }) {
         fill="currentColor"
       ></path>{' '}
       <path
-        d="M0.5 0.5H914.5V914.5H0.5V0.5Z"
+        d="M20,5A15,15 0 1,1 20,35A15,15 0 1,1 20,5M20,8A12,12 0 1,0 20,32A12,12 0 1,0 20,8Z"
         className="ccustom"
         fill="currentColor"
       ></path>{' '}
