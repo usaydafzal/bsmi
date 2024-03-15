@@ -15,10 +15,10 @@ export default function Hero() {
     <HeroWrapper>
       <Contents>
         <CustomOverTitle>the coolest, saas product you have ever seen</CustomOverTitle>
-        <Heading>Bullstockindia is an end to end solution to all the ﬁnancial research services.</Heading>
+        <Heading>BullstockIndia is an end to end solution to all the ﬁnancial research services.</Heading>
         <Description>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, tempora qui. Explicabo voluptate iure ipsum molestias
-          repudiandae perspiciatis nostrum praesentium, unde pariatur tempora magni rem. Necessitatibus facilis obcaecati ratione.
+        ‘Something for someone and everyone shall witness an enhancement in their wealth’ is the motto of the company and our team.
+A company in the ﬁnancial arena which is empowered by great technology and state of the art analytics with ample reinforcement of experts and their 20+ years of experience.
         </Description>
         <CustomButtonGroup>
           <Button onClick={() => setIsModalOpened(true)}>
