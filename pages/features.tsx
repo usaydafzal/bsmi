@@ -65,7 +65,7 @@ const FEATURES = [
 
 export default function FeaturesPage() {
   return (
-    <Page title="Why Invest?" description=" Okay, let us sit back and try to understand something we have been knowing since always. Elit aute do nisi Lorem id ea culpa sint duis eu tempor dolore elit.">
+    <Page title="Why Invest?" description=" Okay, let us sit back and try to understand something we have been knowing since always.">
       <Wrapper>
         <SectionTitle>Check out this quick introduction</SectionTitle>
         <YoutubeVideo url="https://www.youtube.com/watch?v=BggrpKfqh1c" />
