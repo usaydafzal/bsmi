@@ -32,7 +32,7 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
             Bullstockindia has streamlined the solutions to solve some of the core issues in the ﬁeld of investment. Be it a beginner or an expert, every type of our client likes the way we approach the concepts of investment and wealth management.{' '}
             </p>
           </BasicSection>
-          <BasicSection imageUrl="/demo-illustration-2.svg" title="Lorem ipsum dolor sit." overTitle="lorem ipsum" reversed>
+          <BasicSection imageUrl="/demo-illustration-2.svg" title="And Partnering with Us Brings" overTitle="Welcome to Our World" reversed>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore{' '}
               <strong>voluptate quo deleniti animi laboriosam</strong>. Possimus ullam velit rem itaque consectetur, in distinctio?
